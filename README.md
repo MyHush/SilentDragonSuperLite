@@ -1,4 +1,4 @@
-# nSPV pywallet
+# SilentDragonSuperLite
 
 ![alt text](https://i.imgur.com/kycYEmj.png)
 
